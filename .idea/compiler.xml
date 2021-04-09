@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="12.ProductRepository-Raw" />
+        <module name="06.PromotionEngine-Strategy" />
+        <module name="02.MetricsCollector-Proxy1" />
+        <module name="13.ProductRepository-Composite" />
+        <module name="14.ProductRepository-Interpreter" />
+        <module name="07.PromotionEngine-Decorator" />
+        <module name="09.Servlet-Template" />
+        <module name="03.MetricsCollector-Proxy2" />
+        <module name="08.Logger-Adapter" />
+        <module name="10.Order2Xml-Raw" />
+        <module name="05.PromotionEngine-Raw" />
+        <module name="11.Order2Xml-Composite" />
+        <module name="01.MetricsCollector-Raw" />
+        <module name="04.MetricsCollector-Proxy3" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="01.Proxy-MetricsCollector" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

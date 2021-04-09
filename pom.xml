@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.example</groupId>
+    <artifactId>DesignPattern-L1</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>01.MetricsCollector-Raw</module>
+        <module>02.MetricsCollector-Proxy1</module>
+        <module>03.MetricsCollector-Proxy2</module>
+        <module>04.MetricsCollector-Proxy3</module>
+        <module>05.PromotionEngine-Raw</module>
+        <module>06.PromotionEngine-Strategy</module>
+        <module>07.PromotionEngine-Decorator</module>
+        <module>08.Logger-Adapter</module>
+        <module>09.Servlet-Template</module>
+        <module>10.Order2Xml-Raw</module>
+        <module>11.Order2Xml-Composite</module>
+        <module>12.ProductRepository-Raw</module>
+        <module>13.ProductRepository-Composite</module>
+        <module>14.ProductRepository-Interpreter</module>
+    </modules>
+
+
+</project>
